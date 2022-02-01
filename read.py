@@ -2,7 +2,7 @@ import os
 from confluent_kafka import Producer
 import time
 
-p = Producer({'bootstrap.servers': 'cdp03.itversity.com:9092,cdp04.itversity.com:9092,cdp05.itversity.com:9092'})
+p = Producer({'bootstrap.servers': 'w01.itversity.com:9092,w02.itversity.com:9092'})
 
 
 def delivery_report(err, msg):
