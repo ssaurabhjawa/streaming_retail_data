@@ -1,0 +1,58 @@
+{"table_name": "categories", "record": "{\"category_id\":1,\"category_department_id\":2,\"category_name\":\"Football\"}"}
+{"table_name": "categories", "record": "{\"category_id\":2,\"category_department_id\":2,\"category_name\":\"Soccer\"}"}
+{"table_name": "categories", "record": "{\"category_id\":3,\"category_department_id\":2,\"category_name\":\"Baseball & Softball\"}"}
+{"table_name": "categories", "record": "{\"category_id\":4,\"category_department_id\":2,\"category_name\":\"Basketball\"}"}
+{"table_name": "categories", "record": "{\"category_id\":5,\"category_department_id\":2,\"category_name\":\"Lacrosse\"}"}
+{"table_name": "categories", "record": "{\"category_id\":6,\"category_department_id\":2,\"category_name\":\"Tennis & Racquet\"}"}
+{"table_name": "categories", "record": "{\"category_id\":7,\"category_department_id\":2,\"category_name\":\"Hockey\"}"}
+{"table_name": "categories", "record": "{\"category_id\":8,\"category_department_id\":2,\"category_name\":\"More Sports\"}"}
+{"table_name": "categories", "record": "{\"category_id\":9,\"category_department_id\":3,\"category_name\":\"Cardio Equipment\"}"}
+{"table_name": "categories", "record": "{\"category_id\":10,\"category_department_id\":3,\"category_name\":\"Strength Training\"}"}
+{"table_name": "categories", "record": "{\"category_id\":11,\"category_department_id\":3,\"category_name\":\"Fitness Accessories\"}"}
+{"table_name": "categories", "record": "{\"category_id\":12,\"category_department_id\":3,\"category_name\":\"Boxing & MMA\"}"}
+{"table_name": "categories", "record": "{\"category_id\":13,\"category_department_id\":3,\"category_name\":\"Electronics\"}"}
+{"table_name": "categories", "record": "{\"category_id\":14,\"category_department_id\":3,\"category_name\":\"Yoga & Pilates\"}"}
+{"table_name": "categories", "record": "{\"category_id\":15,\"category_department_id\":3,\"category_name\":\"Training by Sport\"}"}
+{"table_name": "categories", "record": "{\"category_id\":16,\"category_department_id\":3,\"category_name\":\"As Seen on  TV!\"}"}
+{"table_name": "categories", "record": "{\"category_id\":17,\"category_department_id\":4,\"category_name\":\"Cleats\"}"}
+{"table_name": "categories", "record": "{\"category_id\":18,\"category_department_id\":4,\"category_name\":\"Men's Footwear\"}"}
+{"table_name": "categories", "record": "{\"category_id\":19,\"category_department_id\":4,\"category_name\":\"Women's Footwear\"}"}
+{"table_name": "categories", "record": "{\"category_id\":20,\"category_department_id\":4,\"category_name\":\"Kids' Footwear\"}"}
+{"table_name": "categories", "record": "{\"category_id\":21,\"category_department_id\":4,\"category_name\":\"Featured Shops\"}"}
+{"table_name": "categories", "record": "{\"category_id\":22,\"category_department_id\":4,\"category_name\":\"Accessories\"}"}
+{"table_name": "categories", "record": "{\"category_id\":23,\"category_department_id\":5,\"category_name\":\"Men's Apparel\"}"}
+{"table_name": "categories", "record": "{\"category_id\":24,\"category_department_id\":5,\"category_name\":\"Women's Apparel\"}"}
+{"table_name": "categories", "record": "{\"category_id\":25,\"category_department_id\":5,\"category_name\":\"Boys' Apparel\"}"}
+{"table_name": "categories", "record": "{\"category_id\":26,\"category_department_id\":5,\"category_name\":\"Girls' Apparel\"}"}
+{"table_name": "categories", "record": "{\"category_id\":27,\"category_department_id\":5,\"category_name\":\"Accessories\"}"}
+{"table_name": "categories", "record": "{\"category_id\":28,\"category_department_id\":5,\"category_name\":\"Top Brands\"}"}
+{"table_name": "categories", "record": "{\"category_id\":29,\"category_department_id\":5,\"category_name\":\"Shop By Sport\"}"}
+{"table_name": "categories", "record": "{\"category_id\":30,\"category_department_id\":6,\"category_name\":\"Men's Golf Clubs\"}"}
+{"table_name": "categories", "record": "{\"category_id\":31,\"category_department_id\":6,\"category_name\":\"Women's Golf Clubs\"}"}
+{"table_name": "categories", "record": "{\"category_id\":32,\"category_department_id\":6,\"category_name\":\"Golf Apparel\"}"}
+{"table_name": "categories", "record": "{\"category_id\":33,\"category_department_id\":6,\"category_name\":\"Golf Shoes\"}"}
+{"table_name": "categories", "record": "{\"category_id\":34,\"category_department_id\":6,\"category_name\":\"Golf Bags & Carts\"}"}
+{"table_name": "categories", "record": "{\"category_id\":35,\"category_department_id\":6,\"category_name\":\"Golf Gloves\"}"}
+{"table_name": "categories", "record": "{\"category_id\":36,\"category_department_id\":6,\"category_name\":\"Golf Balls\"}"}
+{"table_name": "categories", "record": "{\"category_id\":37,\"category_department_id\":6,\"category_name\":\"Electronics\"}"}
+{"table_name": "categories", "record": "{\"category_id\":38,\"category_department_id\":6,\"category_name\":\"Kids' Golf Clubs\"}"}
+{"table_name": "categories", "record": "{\"category_id\":39,\"category_department_id\":6,\"category_name\":\"Team Shop\"}"}
+{"table_name": "categories", "record": "{\"category_id\":40,\"category_department_id\":6,\"category_name\":\"Accessories\"}"}
+{"table_name": "categories", "record": "{\"category_id\":41,\"category_department_id\":6,\"category_name\":\"Trade-In\"}"}
+{"table_name": "categories", "record": "{\"category_id\":42,\"category_department_id\":7,\"category_name\":\"Bike & Skate Shop\"}"}
+{"table_name": "categories", "record": "{\"category_id\":43,\"category_department_id\":7,\"category_name\":\"Camping & Hiking\"}"}
+{"table_name": "categories", "record": "{\"category_id\":44,\"category_department_id\":7,\"category_name\":\"Hunting & Shooting\"}"}
+{"table_name": "categories", "record": "{\"category_id\":45,\"category_department_id\":7,\"category_name\":\"Fishing\"}"}
+{"table_name": "categories", "record": "{\"category_id\":46,\"category_department_id\":7,\"category_name\":\"Indoor/Outdoor Games\"}"}
+{"table_name": "categories", "record": "{\"category_id\":47,\"category_department_id\":7,\"category_name\":\"Boating\"}"}
+{"table_name": "categories", "record": "{\"category_id\":48,\"category_department_id\":7,\"category_name\":\"Water Sports\"}"}
+{"table_name": "categories", "record": "{\"category_id\":49,\"category_department_id\":8,\"category_name\":\"MLB\"}"}
+{"table_name": "categories", "record": "{\"category_id\":50,\"category_department_id\":8,\"category_name\":\"NFL\"}"}
+{"table_name": "categories", "record": "{\"category_id\":51,\"category_department_id\":8,\"category_name\":\"NHL\"}"}
+{"table_name": "categories", "record": "{\"category_id\":52,\"category_department_id\":8,\"category_name\":\"NBA\"}"}
+{"table_name": "categories", "record": "{\"category_id\":53,\"category_department_id\":8,\"category_name\":\"NCAA\"}"}
+{"table_name": "categories", "record": "{\"category_id\":54,\"category_department_id\":8,\"category_name\":\"MLS\"}"}
+{"table_name": "categories", "record": "{\"category_id\":55,\"category_department_id\":8,\"category_name\":\"International Soccer\"}"}
+{"table_name": "categories", "record": "{\"category_id\":56,\"category_department_id\":8,\"category_name\":\"World Cup Shop\"}"}
+{"table_name": "categories", "record": "{\"category_id\":57,\"category_department_id\":8,\"category_name\":\"MLB Players\"}"}
+{"table_name": "categories", "record": "{\"category_id\":58,\"category_department_id\":8,\"category_name\":\"NFL Players\"}"}
