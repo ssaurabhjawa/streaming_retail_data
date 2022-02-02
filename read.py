@@ -25,7 +25,7 @@ def read_send_message(src_dir):
                     # Asynchronously produce a message, the delivery report callback
                     # will be triggered from poll() above, or flush() below, when the message has
                     # been successfully delivered or failed permanently.
-                    p.produce('retail_topic_1', key="key", value=line, callback=delivery_report)
+                    p.produce('retail_db', key="key", value=line, callback=delivery_report)
                     print(f'{line} is produced')
                     time.sleep(1)
 
